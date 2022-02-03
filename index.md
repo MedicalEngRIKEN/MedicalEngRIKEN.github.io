@@ -58,12 +58,13 @@ Towards an Effective Orthogonal Dictionary Convolution Strategy (AAAI 2022)
 
 [Explainable Diabetic Retinopathy Detection and Retinal Image Generation](https://github.yuuza.net/zzdyyy/Patho-GAN)   (IEEE Journal of Biomedical and Health Informatics)
 
+[An Improved ICP Algorithm for Point Cloud Registration](https://ieeexplore.ieee.org/document/9536137)  (ICARM 2021)
 
+[Object Detection of Surgical Instruments Based on YOLOv4](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9536075)   (ICARM 2021)
 
+[Relation-Aware Reasoning with Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-87355-4_5)  (ICIG 2021)
 
-
-
-
+[Beyond Triplet Loss: Person Re-identification with Fine-grained Difference-aware Pairwise Loss](https://arxiv.org/pdf/2009.10295.pdf)   (IEEE Transactions on Multimedia)
 
 
 
