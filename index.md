@@ -15,41 +15,28 @@ For more information, please refer to [Machine Intelligence Lab](https://www.mi.
 
 -Intelligent Robot
 
-#
+# 2022
+
+---
+
+[Model-Induced Generalization Error Bound for Information-Theoretic Representation Learning in Source-Data-Free Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/9640468) (IEEE Transactions on Image Processing)
+
+Fully Spiking Variational Autoencoder[https://arxiv.org/abs/2110.00375]  (AAAI 2022)
+
+EtinyNet: Extremely Tiny Network for TinyML  (AAAI 2022)
+
+Towards an Effective Orthogonal Dictionary Convolution Strategy (AAAI 2022)
 
 
-You can use the [editor on GitHub](https://github.com/MedicalEngRIKEN/MedicalEngRIKEN.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Neural Articulated Radiance Field]()
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MedicalEngRIKEN/MedicalEngRIKEN.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
