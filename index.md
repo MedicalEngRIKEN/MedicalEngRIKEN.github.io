@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Machine Intelligence for Medical Engineering Team
+---
+
+# Introduction
+Our goal is to invent intelligent systems assisting medical diagnosis and treatment by extracting useful features from medical information, and combining them with powerful computational resources and vast amount of data in the cyber space. To tackle this challenging problem, we utilize all resources in the area of computer science including mathematical basis and robotics.
+
+For more information, please refer to [Machine Intelligence Lab](https://www.mi.t.u-tokyo.ac.jp/en).
+
+
+# Research Subjects
+
+-Visual Recognition
+
+-Machine Learning
+
+-Intelligent Robot
+
+#
+
 
 You can use the [editor on GitHub](https://github.com/MedicalEngRIKEN/MedicalEngRIKEN.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
